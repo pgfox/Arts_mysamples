@@ -1,4 +1,4 @@
-package com.acme.arts.queue.core;
+package com.acme.arts.core.queue.api;
 
 import org.apache.activemq.artemis.api.core.client.ActiveMQClient;
 import org.apache.activemq.artemis.api.core.client.ClientMessage;

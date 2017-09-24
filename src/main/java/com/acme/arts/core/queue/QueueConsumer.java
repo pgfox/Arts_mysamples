@@ -1,5 +1,5 @@
 
-package com.acme.arts.queue;
+package com.acme.arts.core.queue;
 
 import org.apache.activemq.artemis.jms.client.ActiveMQConnectionFactory;
 

@@ -1,4 +1,4 @@
-package com.acme.arts.queue;
+package com.acme.arts.core.queue;
 
 import javax.jms.*;
 import javax.naming.InitialContext;
